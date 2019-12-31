@@ -1,1 +1,1 @@
-# Chi-Stoic
+'fitsquid'.endswith('fit')
