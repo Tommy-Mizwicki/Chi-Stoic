@@ -1,1 +1,0 @@
-'fitsquid'.endswith('fit')
